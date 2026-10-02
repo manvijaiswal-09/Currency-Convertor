@@ -2,7 +2,7 @@
 
 A simple and responsive web application that allows users to convert an amount from one currency to another using real-time exchange rates fetched from an API.
 
-🔗 *Live Demo:* [View https://manvijaiswal-09.github.io/Currency-Convertor/Project]()
+🔗 *Live Demo:* [Viewh](https://manvijaiswal-09.github.io/Currency-Convertor/Project)
 
 ## ✨ Features
 
